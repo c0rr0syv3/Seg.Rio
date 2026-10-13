@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Manual de Manutenção Elétrica — Transporte Público</title>
+<link rel="icon" type="image/png" href="/favicon.png?v=1">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header><div class="wrap">
+  <div class="logo" onclick="go('home')"><img src="logo.png" style="width: 125px; height: 60px;" alt="" ><span>Manual de Manutenção Elétrica<small>Segurança no transporte público</small></span></div>
+  <nav><a id="n-home" class="on" onclick="go('home')">Início</a><a id="n-about" onclick="go('about')">Quem somos</a></nav>
+</div></header>
+
+<main class="wrap" id="app"></main>
+<footer>Manual didático preventivo de manutenção elétrica · Desenvolvido com apoio do professor Caruso<br><a href="#" style="color:var(--y)" onclick="cfg();return false">⚙ Configurar IA</a></footer>
+
+<dialog id="dlg"><b>Chave da API Google AI (Gemini)</b><p style="font-size:14px">Fica salva só neste navegador. Deixe em branco para usar a chave padrão do arquivo.</p><input id="kin" type="password" placeholder="AQ...."><p><button class="btn" onclick="saveKey()">Salvar</button> <button class="btn s" onclick="dlg.close()">Fechar</button></p></dialog>
+<script src="script.js"></script>
+</body>
+</html>
