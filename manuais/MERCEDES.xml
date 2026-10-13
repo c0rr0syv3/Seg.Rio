@@ -1,0 +1,1089 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<indice_remissivo>
+  <termo nome="ABS" pagina="2, 3">
+    <subitem nome="Módulo ABS/ASR" pagina="2, 3">
+      </subitem>
+    <subitem nome="Sensores e válvulas de controle" pagina="3">
+      </subitem>
+  </termo>
+  <termo nome="Acelerador" pagina="14">
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="14">
+      </subitem>
+    <subitem nome="Pedal do acelerador [U17]" pagina="14">
+      </subitem>
+  </termo>
+  <termo nome="Alimentação do módulo da suspensão eletropneumática (NR)" pagina="44">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="44">
+      </subitem>
+    <subitem nome="Barramento de fusíveis do terminal 30. [FD]" pagina="44">
+      </subitem>
+    <subitem nome="Interruptor para Blink Code (ECAS) [S45]" pagina="44">
+      </subitem>
+    <subitem nome="Lâmpada piloto falha no sistema (ECAS) [H60]" pagina="44">
+      </subitem>
+    <subitem nome="Lâmpada piloto para Kneeling [H61]" pagina="44">
+      </subitem>
+    <subitem nome="Lâmpada piloto veículo fora de nível (ECAS) [H59]" pagina="44">
+      </subitem>
+    <subitem nome="Módulo Wabco (ECAS) [U30]" pagina="44">
+      </subitem>
+    <subitem nome="Painel de instrumentos [P18]" pagina="44">
+      </subitem>
+    <subitem nome="Tomada para diagnóstico [J4]" pagina="44">
+      </subitem>
+  </termo>
+  <termo nome="Alimentação do módulo do ABS, Blink code" pagina="2">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC1]" pagina="2">
+      </subitem>
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="2">
+      </subitem>
+    <subitem nome="Barramento de fusíveis do terminal 30. [FD]" pagina="2">
+      </subitem>
+    <subitem nome="Interruptor “Blink-code” do ABS/ASR [S17]" pagina="2">
+      </subitem>
+    <subitem nome="Lâmpada-piloto de falha do sistema ABS [H18]" pagina="2">
+      </subitem>
+    <subitem nome="Módulo eletrônico do sistema ABS/ASR [U5]" pagina="2">
+      </subitem>
+    <subitem nome="Painel de instrumentos [P18]" pagina="2">
+      </subitem>
+  </termo>
+  <termo nome="Alimentação dos módulos PLD e ADM, CAN" pagina="15">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC1]" pagina="15">
+      </subitem>
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="15">
+      </subitem>
+    <subitem nome="Barramento de fusíveis do terminal 30. [FD]" pagina="15">
+      </subitem>
+    <subitem nome="Baterias [G19]" pagina="15">
+      </subitem>
+    <subitem nome="Chave geral da bateria [Q1]" pagina="15">
+      </subitem>
+    <subitem nome="Lâmpada piloto de baixo nível de óleo do cárter [H41]" pagina="15">
+      </subitem>
+    <subitem nome="Lâmpada piloto de controle dos sistemas (PLD/ADM) [H40]" pagina="15">
+      </subitem>
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="15">
+      </subitem>
+    <subitem nome="Módulo do gerenciamento eletrônico do motor (PLD) [U16]" pagina="15">
+      </subitem>
+    <subitem nome="Motor de partida [M12]" pagina="15">
+      </subitem>
+    <subitem nome="Painel de instrumentos [P18]" pagina="15">
+      </subitem>
+  </termo>
+  <termo nome="Alimentação elétrica" pagina="1">
+    <subitem nome="Cores dos cabos elétricos" pagina="1">
+      </subitem>
+    <subitem nome="Identificação dos cabos elétricos" pagina="1">
+      </subitem>
+    <subitem nome="Tensão da instalação: 24 V" pagina="1">
+      </subitem>
+  </termo>
+  <termo nome="Baterias" pagina="1, 6, 15, 29, 31, 33, 35, 37, 39, 49, 51, 56">
+    <subitem nome="Chave geral da bateria" pagina="6, 15, 29, 31, 33, 35, 37, 39, 49, 51, 56">
+      </subitem>
+    <subitem nome="Conexão à massa" pagina="1">
+      </subitem>
+  </termo>
+  <termo nome="Buzina, Indicador de ruptura da correia do ventilador, Sensores do nível do líquido de arrefecimento, filtro de ar e pressão do freio de estacionamento" pagina="4">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="4">
+      </subitem>
+    <subitem nome="Alternador [G20]" pagina="4">
+      </subitem>
+    <subitem nome="Barramento de fusíveis do terminal 30. [FD]" pagina="4">
+      </subitem>
+    <subitem nome="Buzina elétrica [P1]" pagina="4">
+      </subitem>
+    <subitem nome="Diodo cheque lâmpada H29 [D39]" pagina="4">
+      </subitem>
+    <subitem nome="Interruptor combinado na coluna de direção [S3]" pagina="4">
+      </subitem>
+    <subitem nome="Interruptor comutador da buzina elétrica/pneumática [S4]" pagina="4">
+      </subitem>
+    <subitem nome="Interruptor da lâmpada-piloto de nível do líquido de arrefecimento [B49]" pagina="4">
+      </subitem>
+    <subitem nome="Interruptor da lâmpada-piloto do freio de estacionamento [B7]" pagina="4">
+      </subitem>
+    <subitem nome="Interruptor da lâmpada-piloto do indicador de manutenção do filtro de ar [B8]" pagina="4">
+      </subitem>
+    <subitem nome="Lâmpada piloto de nível do líquido de arrefecimento [H35]" pagina="4">
+      </subitem>
+    <subitem nome="Lâmpada piloto do indicador de ruptura da correia do ventilador [H29]" pagina="4">
+      </subitem>
+    <subitem nome="Lâmpada-piloto do freio de estacionamento [H6]" pagina="4">
+      </subitem>
+    <subitem nome="Lâmpada-piloto do indicador de manutenção do filtro de ar [H7]" pagina="4">
+      </subitem>
+    <subitem nome="Painel de instrumentos [P18]" pagina="4">
+      </subitem>
+    <subitem nome="Sensor do indicador de ruptura da correia do ventilador [B25]" pagina="4">
+      </subitem>
+    <subitem nome="Válvula eletromagnética da buzina pneumática [V1]" pagina="4">
+      </subitem>
+  </termo>
+  <termo nome="Códigos de cores dos cabos" pagina="1">
+    <subitem nome="Amarelo (ge)" pagina="1">
+      </subitem>
+    <subitem nome="Azul (bl)" pagina="1">
+      </subitem>
+    <subitem nome="Branco (ws)" pagina="1">
+      </subitem>
+    <subitem nome="Cinza (gr)" pagina="1">
+      </subitem>
+    <subitem nome="Lilás (li)" pagina="1">
+      </subitem>
+    <subitem nome="Marrom (br)" pagina="1">
+      </subitem>
+    <subitem nome="Preto (sw)" pagina="1">
+      </subitem>
+    <subitem nome="Verde (gn)" pagina="1">
+      </subitem>
+    <subitem nome="Vermelho (rt)" pagina="1">
+      </subitem>
+  </termo>
+  <termo nome="Conector de espera do encarroçador" pagina="6">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="6">
+      </subitem>
+    <subitem nome="(KL.58) Barramento de fusíveis do terminal 58 [FE]" pagina="6">
+      </subitem>
+    <subitem nome="Alternador [G20]" pagina="6">
+      </subitem>
+    <subitem nome="Baterias [G19]" pagina="6">
+      </subitem>
+    <subitem nome="Caixa de fusíveis de proteção geral [FZ]" pagina="6">
+      </subitem>
+    <subitem nome="Chave geral da bateria [Q1]" pagina="6">
+      </subitem>
+    <subitem nome="Conector Chassis / Central elétrica [Z4]" pagina="6">
+      </subitem>
+    <subitem nome="Conector de espera encarroçador [BUS]" pagina="6">
+      </subitem>
+    <subitem nome="Interruptor de contato e partida [Q2]" pagina="6">
+      </subitem>
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="6">
+      </subitem>
+    <subitem nome="Relé auxiliar do ar condicionado [K11]" pagina="6">
+      </subitem>
+  </termo>
+  <termo nome="Controle de desgaste das pastilhas de freio" pagina="8">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="8">
+      </subitem>
+    <subitem nome="Interruptor desgaste pastilha de freio dianteiro direito [B87]" pagina="8">
+      </subitem>
+    <subitem nome="Interruptor desgaste pastilha de freio dianteiro esquerdo [B88]" pagina="8">
+      </subitem>
+    <subitem nome="Interruptor desgaste pastilha de freio traseiro direito [B89]" pagina="8">
+      </subitem>
+    <subitem nome="Interruptor desgaste pastilha de freio traseiro esquerdo [B90]" pagina="8">
+      </subitem>
+    <subitem nome="Lâmpada-piloto desgaste das pastilhas do freio dianteiro [H46]" pagina="8">
+      </subitem>
+    <subitem nome="Lâmpada-piloto desgaste das pastilhas do freio traseiro [H45]" pagina="8">
+      </subitem>
+    <subitem nome="Módulo de comando desgaste das pastilhas do freio [U8]" pagina="8">
+      </subitem>
+    <subitem nome="Painel de instrumentos [P18]" pagina="8">
+      </subitem>
+  </termo>
+  <termo nome="Diagnose" pagina="9">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="9">
+      </subitem>
+    <subitem nome="Barramento de fusíveis do terminal 30. [FD]" pagina="9">
+      </subitem>
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="9">
+      </subitem>
+    <subitem nome="Módulo de comando Voith Diwa D863 [U29]" pagina="9">
+      </subitem>
+    <subitem nome="Módulo do gerenciamento eletrônico do motor (PLD) [U16]" pagina="9">
+      </subitem>
+    <subitem nome="Módulo eletrônico da transmissão automática ZF [U28]" pagina="9">
+      </subitem>
+    <subitem nome="Módulo eletrônico do sistema ABS/ASR [U5]" pagina="9">
+      </subitem>
+    <subitem nome="Módulo Wabco (ECAS) [U30]" pagina="9">
+      </subitem>
+    <subitem nome="Tomada para diagnóstico [J4]" pagina="9">
+      </subitem>
+  </termo>
+  <termo nome="Faróis" pagina="49">
+    <subitem nome="Alternador [G20]" pagina="49">
+      </subitem>
+    <subitem nome="Barramento de fusíveis da luz alta [FA]" pagina="49">
+      </subitem>
+    <subitem nome="Barramento de fusíveis da luz baixa [FB]" pagina="49">
+      </subitem>
+    <subitem nome="Baterias [G19]" pagina="49">
+      </subitem>
+    <subitem nome="Caixa de fusíveis de proteção geral [FZ]" pagina="49">
+      </subitem>
+    <subitem nome="Chave geral da bateria [Q1]" pagina="49">
+      </subitem>
+    <subitem nome="Conector Chassis / Central elétrica [Z4]" pagina="49">
+      </subitem>
+    <subitem nome="Farol alto direito [E28]" pagina="49">
+      </subitem>
+    <subitem nome="Farol alto esquerdo [E27]" pagina="49">
+      </subitem>
+    <subitem nome="Interruptor combinado na coluna de direção [S3]" pagina="49">
+      </subitem>
+    <subitem nome="Interruptor de contato e partida [Q2]" pagina="49">
+      </subitem>
+    <subitem nome="Interruptor geral de luzes [S1]" pagina="49">
+      </subitem>
+    <subitem nome="Lâmpada-piloto da luz alta [H9]" pagina="49">
+      </subitem>
+    <subitem nome="Luz alta / baixa direita [E2]" pagina="49">
+      </subitem>
+    <subitem nome="Luz alta / baixa esquerda [E1]" pagina="49">
+      </subitem>
+    <subitem nome="Painel de instrumentos [P18]" pagina="49">
+      </subitem>
+    <subitem nome="Relé auxiliar da luz alta [K4]" pagina="49">
+      </subitem>
+    <subitem nome="Relé auxiliar da luz baixa [K3]" pagina="49">
+      </subitem>
+  </termo>
+  <termo nome="Freio motor" pagina="10">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC1]" pagina="10">
+      </subitem>
+    <subitem nome="Diodo bloqueio retorno de corrente lâmpadas de freio [D20]" pagina="10">
+      </subitem>
+    <subitem nome="Interruptor da luz de freio [B14]" pagina="10">
+      </subitem>
+    <subitem nome="Interruptor de freio-motor direto/desliga [S7]" pagina="10">
+      </subitem>
+    <subitem nome="Interruptor do freio motor no piso [B45]" pagina="10">
+      </subitem>
+    <subitem nome="Luz de freio direita [E10]" pagina="10">
+      </subitem>
+    <subitem nome="Luz de freio esquerda [E9]" pagina="10">
+      </subitem>
+    <subitem nome="Luz de freio superior direita [E39]" pagina="10">
+      </subitem>
+    <subitem nome="Luz de freio superior esquerda [E38]" pagina="10">
+      </subitem>
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="10">
+      </subitem>
+    <subitem nome="Módulo eletrônico do sistema ABS/ASR [U5]" pagina="10">
+      </subitem>
+    <subitem nome="Relé auxiliar da luz de freio [K29]" pagina="10">
+      </subitem>
+    <subitem nome="Válvula eletromagnética Top-Brake/ Freio-motor [V30]" pagina="10">
+      </subitem>
+  </termo>
+  <termo nome="Fusíveis e relés" pagina="60">
+    <subitem nome="Etiqueta de identificação" pagina="60">
+      </subitem>
+    <subitem nome="Identificação dos fusíveis" pagina="60">
+      </subitem>
+    <subitem nome="Identificação dos relés" pagina="60">
+      </subitem>
+  </termo>
+  <termo nome="Iluminação dos interruptores" pagina="51">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="51">
+      </subitem>
+    <subitem nome="Baterias [G19]" pagina="51">
+      </subitem>
+    <subitem nome="Caixa de fusíveis de proteção geral [FZ]" pagina="51">
+      </subitem>
+    <subitem nome="Chave geral da bateria [Q1]" pagina="51">
+      </subitem>
+    <subitem nome="Conector Chassis / Central elétrica [Z4]" pagina="51">
+      </subitem>
+    <subitem nome="Iluminação do painel de ventilação [H14]" pagina="51">
+      </subitem>
+    <subitem nome="Interruptor comutador da buzina elétrica/pneumática [S4]" pagina="51">
+      </subitem>
+    <subitem nome="Interruptor de acionamento do retardador [S31]" pagina="51">
+      </subitem>
+    <subitem nome="Interruptor de contato e partida [Q2]" pagina="51">
+      </subitem>
+    <subitem nome="Interruptor de freio-motor direto/desliga [S7]" pagina="51">
+      </subitem>
+    <subitem nome="Interruptor de velocidade I e II do sistema de calefação [S27]" pagina="51">
+      </subitem>
+    <subitem nome="Interruptor geral de luzes [S1]" pagina="51">
+      </subitem>
+    <subitem nome="Interruptor Kneeling [S34]" pagina="51">
+      </subitem>
+    <subitem nome="Interruptor para elevação (ECAS) [S46]" pagina="51">
+      </subitem>
+    <subitem nome="Interruptor para nivelamento (ECAS) [S44]" pagina="51">
+      </subitem>
+    <subitem nome="Seletor de marchas da transmissão automática [S35]" pagina="51">
+      </subitem>
+  </termo>
+  <termo nome="Indicações gerais de segurança" pagina="1">
+    <subitem nome="Baterias e solução eletrolítica" pagina="1">
+      </subitem>
+    <subitem nome="Intervenção no veículo" pagina="1">
+      </subitem>
+    <subitem nome="Soldagem elétrica" pagina="1">
+      </subitem>
+  </termo>
+  <termo nome="Indicadores do painel de instrumentos, Sensores de falha no sistema de freio" pagina="11">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="11">
+      </subitem>
+    <subitem nome="(KL.58) Barramento de fusíveis do terminal 58 [FE]" pagina="11">
+      </subitem>
+    <subitem nome="Alarme sonoro de temperatura, pressão de óleo do motor, [T5]" pagina="11">
+      </subitem>
+    <subitem nome="Gerador de impulsos (sensor de velocidade na caixa de [G3]" pagina="11">
+      </subitem>
+    <subitem nome="Indicador da pressão de óleo do motor [P16]" pagina="11">
+      </subitem>
+    <subitem nome="Indicador da temperatura do motor [P17]" pagina="11">
+      </subitem>
+    <subitem nome="Indicador do nível de combustível [P15]" pagina="11">
+      </subitem>
+    <subitem nome="Interruptor da lâmpada-piloto de falha do freio dianteiro [B54]" pagina="11">
+      </subitem>
+    <subitem nome="Interruptor da lâmpada-piloto de falha do freio traseiro [B55]" pagina="11">
+      </subitem>
+    <subitem nome="Interruptor do indicador de pressão pneumática [B4]" pagina="11">
+      </subitem>
+    <subitem nome="Lâmpada-piloto da pressão pneumática do sistema de [H37]" pagina="11">
+      </subitem>
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="11">
+      </subitem>
+    <subitem nome="Painel de instrumentos [P18]" pagina="11">
+      </subitem>
+    <subitem nome="Sensor do nível de combustível [B2]" pagina="11">
+      </subitem>
+    <subitem nome="Tacógrafo eletrônico [P5]" pagina="11">
+      </subitem>
+    <subitem nome="Tacômetro (conta-giros) [P4]" pagina="11">
+      </subitem>
+    <subitem nome="Velocímetro eletrônico [P7]" pagina="11">
+      </subitem>
+  </termo>
+  <termo nome="Interruptores de acionamento da suspensão eletropneumática (NR), Sinal de atuação do pedal de freio" pagina="45">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC1]" pagina="45">
+      </subitem>
+    <subitem nome="Diodo bloqueio retorno de corrente lâmpadas de freio [D20]" pagina="45">
+      </subitem>
+    <subitem nome="Interruptor da luz de freio [B14]" pagina="45">
+      </subitem>
+    <subitem nome="Interruptor de freio-motor direto/desliga [S7]" pagina="45">
+      </subitem>
+    <subitem nome="Interruptor Kneeling [S34]" pagina="45">
+      </subitem>
+    <subitem nome="Interruptor para elevação (ECAS) [S46]" pagina="45">
+      </subitem>
+    <subitem nome="Interruptor para nivelamento (ECAS) [S44]" pagina="45">
+      </subitem>
+    <subitem nome="Módulo Wabco (ECAS) [U30]" pagina="45">
+      </subitem>
+  </termo>
+  <termo nome="Lavador e limpador de pára-brisas" pagina="12">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="12">
+      </subitem>
+    <subitem nome="Interruptor combinado na coluna de direção [S3]" pagina="12">
+      </subitem>
+    <subitem nome="Motor do lavador de pára-brisa [M2]" pagina="12">
+      </subitem>
+    <subitem nome="Motor do limpador de pára-brisa [M3]" pagina="12">
+      </subitem>
+    <subitem nome="Relé temporizador do motor do limpador de pára-brisa [K6]" pagina="12">
+      </subitem>
+  </termo>
+  <termo nome="Luzes de freio" pagina="53">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC1]" pagina="53">
+      </subitem>
+    <subitem nome="Diodo bloqueio retorno de corrente lâmpadas de freio [D20]" pagina="53">
+      </subitem>
+    <subitem nome="Diodo de bloqueio de retorno de corrente do freio de parada [D24]" pagina="53">
+      </subitem>
+    <subitem nome="Diodo de bloqueio retorno de corrente do retardador de freio [D21]" pagina="53">
+      </subitem>
+    <subitem nome="Interruptor da luz de freio [B14]" pagina="53">
+      </subitem>
+    <subitem nome="Interruptor de desligamento de emergência do sistema de portas [S43]" pagina="53">
+      </subitem>
+    <subitem nome="Interruptor de freio-motor direto/desliga [S7]" pagina="53">
+      </subitem>
+    <subitem nome="Interruptor de pressão acionamento 2 estágios retardador [B97]" pagina="53">
+      </subitem>
+    <subitem nome="Interruptor de pressão do sistema de bloqueio do veículo [B38]" pagina="53">
+      </subitem>
+    <subitem nome="Lâmpada-piloto do sistema de bloqueio do veículo [H30]" pagina="53">
+      </subitem>
+    <subitem nome="Luz de freio direita [E10]" pagina="53">
+      </subitem>
+    <subitem nome="Luz de freio esquerda [E9]" pagina="53">
+      </subitem>
+    <subitem nome="Luz de freio superior direita [E39]" pagina="53">
+      </subitem>
+    <subitem nome="Luz de freio superior esquerda [E38]" pagina="53">
+      </subitem>
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="53">
+      </subitem>
+    <subitem nome="Módulo de comando Voith Diwa D863 [U29]" pagina="53">
+      </subitem>
+    <subitem nome="Módulo eletrônico da transmissão automática ZF [U28]" pagina="53">
+      </subitem>
+    <subitem nome="Módulo Wabco (ECAS) [U30]" pagina="53">
+      </subitem>
+    <subitem nome="Painel de instrumentos [P18]" pagina="53">
+      </subitem>
+    <subitem nome="Relé auxiliar da luz de freio [K29]" pagina="53">
+      </subitem>
+    <subitem nome="Relé auxiliar de desligamento de emergência do sistema de portas [K81]" pagina="53">
+      </subitem>
+    <subitem nome="Relé de acionamento do retardador pelo pedal de freio [K56]" pagina="53">
+      </subitem>
+  </termo>
+  <termo nome="Luzes de marcha-à-ré, Tomada do reboque" pagina="58">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="58">
+      </subitem>
+    <subitem nome="Alarme sonoro de ré [T9]" pagina="58">
+      </subitem>
+    <subitem nome="Interruptor da luz da marcha-à-ré [B11]" pagina="58">
+      </subitem>
+    <subitem nome="Luz de delimitação dianteira direita [E14]" pagina="58">
+      </subitem>
+    <subitem nome="Luz de delimitação dianteira esquerda [E13]" pagina="58">
+      </subitem>
+    <subitem nome="Luz de freio direita [E10]" pagina="58">
+      </subitem>
+    <subitem nome="Luz de freio esquerda [E9]" pagina="58">
+      </subitem>
+    <subitem nome="Luz de freio superior direita [E39]" pagina="58">
+      </subitem>
+    <subitem nome="Luz de freio superior esquerda [E38]" pagina="58">
+      </subitem>
+    <subitem nome="Luz de marcha-à-ré direita [E8]" pagina="58">
+      </subitem>
+    <subitem nome="Luz de marcha-à-ré esquerda [E7]" pagina="58">
+      </subitem>
+    <subitem nome="Luz de posição dianteira direita [E18]" pagina="58">
+      </subitem>
+    <subitem nome="Luz de posição dianteira esquerda [E17]" pagina="58">
+      </subitem>
+    <subitem nome="Luz de posição lateral direita [E16]" pagina="58">
+      </subitem>
+    <subitem nome="Luz de posição lateral esquerda [E15]" pagina="58">
+      </subitem>
+    <subitem nome="Luz indicadora de direção dianteira direita [E4]" pagina="58">
+      </subitem>
+    <subitem nome="Luz indicadora de direção dianteira esquerda [E3]" pagina="58">
+      </subitem>
+    <subitem nome="Luz indicadora de direção lateral direita [E37]" pagina="58">
+      </subitem>
+    <subitem nome="Luz indicadora de direção lateral esquerda [E36]" pagina="58">
+      </subitem>
+    <subitem nome="Luz indicadora de direção traseira direita [E6]" pagina="58">
+      </subitem>
+    <subitem nome="Luz indicadora de direção traseira esquerda [E5]" pagina="58">
+      </subitem>
+    <subitem nome="Módulo de comando Voith Diwa D863 [U29]" pagina="58">
+      </subitem>
+    <subitem nome="Módulo eletrônico da transmissão automática ZF [U28]" pagina="58">
+      </subitem>
+    <subitem nome="Relé auxiliar da luz de marcha-à-ré [K69]" pagina="58">
+      </subitem>
+    <subitem nome="Seletor de marchas da transmissão automática [S35]" pagina="58">
+      </subitem>
+    <subitem nome="Tomada para reboque ou semi-reboque [J1]" pagina="58">
+      </subitem>
+  </termo>
+  <termo nome="Luzes de posição e delimitação" pagina="55">
+    <subitem nome="(KL.58) Barramento de fusíveis do terminal 58 [FE]" pagina="55">
+      </subitem>
+    <subitem nome="Conector de espera encarroçador [BUS]" pagina="55">
+      </subitem>
+    <subitem nome="Luz de delimitação dianteira direita [E14]" pagina="55">
+      </subitem>
+    <subitem nome="Luz de delimitação dianteira esquerda [E13]" pagina="55">
+      </subitem>
+    <subitem nome="Luz de delimitação traseira direita [E41]" pagina="55">
+      </subitem>
+    <subitem nome="Luz de delimitação traseira esquerda [E40]" pagina="55">
+      </subitem>
+    <subitem nome="Luz de posição dianteira direita [E18]" pagina="55">
+      </subitem>
+    <subitem nome="Luz de posição dianteira esquerda [E17]" pagina="55">
+      </subitem>
+    <subitem nome="Luz de posição lateral direita [E16]" pagina="55">
+      </subitem>
+    <subitem nome="Luz de posição lateral esquerda [E15]" pagina="55">
+      </subitem>
+    <subitem nome="Luz de posição traseira direita [E12]" pagina="55">
+      </subitem>
+    <subitem nome="Luz de posição traseira esquerda [E11]" pagina="55">
+      </subitem>
+    <subitem nome="Tomada para reboque ou semi-reboque [J1]" pagina="55">
+      </subitem>
+  </termo>
+  <termo nome="Luzes indicadoras de direção e de emergência" pagina="56">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="56">
+      </subitem>
+    <subitem nome="(KL.58) Barramento de fusíveis do terminal 58 [FE]" pagina="56">
+      </subitem>
+    <subitem nome="Baterias [G19]" pagina="56">
+      </subitem>
+    <subitem nome="Chave geral da bateria [Q1]" pagina="56">
+      </subitem>
+    <subitem nome="Interruptor combinado na coluna de direção [S3]" pagina="56">
+      </subitem>
+    <subitem nome="Interruptor das luzes de advertência (pisca-alerta) [S5]" pagina="56">
+      </subitem>
+    <subitem nome="Lâmpada-piloto das luzes indicadoras de direção [H10]" pagina="56">
+      </subitem>
+    <subitem nome="Luz indicadora de direção dianteira direita [E4]" pagina="56">
+      </subitem>
+    <subitem nome="Luz indicadora de direção dianteira esquerda [E3]" pagina="56">
+      </subitem>
+    <subitem nome="Luz indicadora de direção lateral direita [E37]" pagina="56">
+      </subitem>
+    <subitem nome="Luz indicadora de direção lateral esquerda [E36]" pagina="56">
+      </subitem>
+    <subitem nome="Luz indicadora de direção traseira direita [E6]" pagina="56">
+      </subitem>
+    <subitem nome="Luz indicadora de direção traseira esquerda [E5]" pagina="56">
+      </subitem>
+    <subitem nome="Painel de instrumentos [P18]" pagina="56">
+      </subitem>
+    <subitem nome="Relé das luzes indicadoras de direção [K7]" pagina="56">
+      </subitem>
+    <subitem nome="Tomada para reboque ou semi-reboque [J1]" pagina="56">
+      </subitem>
+  </termo>
+  <termo nome="Modelos de veículo" pagina="1">
+    <subitem nome="O 500 M/1725" pagina="1">
+      </subitem>
+    <subitem nome="O 500 M/1728" pagina="1">
+      </subitem>
+    <subitem nome="O 500 M/1732" pagina="1">
+      </subitem>
+  </termo>
+  <termo nome="Modulador Allison" pagina="13">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC1]" pagina="13">
+      </subitem>
+    <subitem nome="Modulador eletrônico da transmissão Allison [U23]" pagina="13">
+      </subitem>
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="13">
+      </subitem>
+    <subitem nome="Relé modulador da transmissão automática Allison [K50]" pagina="13">
+      </subitem>
+  </termo>
+  <termo nome="Retardador Voith" pagina="19">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC1]" pagina="19">
+      </subitem>
+    <subitem nome="Diodo bloqueio retorno de corrente lâmpadas de freio [D20]" pagina="19">
+      </subitem>
+    <subitem nome="Interruptor da luz de freio [B14]" pagina="19">
+      </subitem>
+    <subitem nome="Interruptor de acionamento do retardador [S31]" pagina="19">
+      </subitem>
+    <subitem nome="Interruptor de pressão acionamento 2 estágios retardador [B97]" pagina="19">
+      </subitem>
+    <subitem nome="Interruptor de pressão acionamento 2 estágios retardador [B98]" pagina="19">
+      </subitem>
+    <subitem nome="Luz de freio direita [E10]" pagina="19">
+      </subitem>
+    <subitem nome="Luz de freio esquerda [E9]" pagina="19">
+      </subitem>
+    <subitem nome="Luz de freio superior direita [E39]" pagina="19">
+      </subitem>
+    <subitem nome="Luz de freio superior esquerda [E38]" pagina="19">
+      </subitem>
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="19">
+      </subitem>
+    <subitem nome="Módulo de comando Voith Diwa D863 [U29]" pagina="19">
+      </subitem>
+    <subitem nome="Relé auxiliar controle de transmissão automática [K85]" pagina="19">
+      </subitem>
+    <subitem nome="Relé auxiliar da luz de freio [K29]" pagina="19">
+      </subitem>
+    <subitem nome="Relé de acionamento do retardador pelo acelerador [K49]" pagina="19">
+      </subitem>
+    <subitem nome="Relé de acionamento do retardador pelo pedal de freio [K56]" pagina="19">
+      </subitem>
+  </termo>
+  <termo nome="Retardador ZF" pagina="21">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC1]" pagina="21">
+      </subitem>
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="21">
+      </subitem>
+    <subitem nome="Diodo bloqueio retorno de corrente lâmpadas de freio [D20]" pagina="21">
+      </subitem>
+    <subitem nome="Diodo de bloqueio retorno de corrente do retardador de freio [D21]" pagina="21">
+      </subitem>
+    <subitem nome="Interruptor da luz de freio [B14]" pagina="21">
+      </subitem>
+    <subitem nome="Interruptor de acionamento do retardador [S31]" pagina="21">
+      </subitem>
+    <subitem nome="Lâmpada-piloto acionamento do retardador de freio [H26]" pagina="21">
+      </subitem>
+    <subitem nome="Lâmpada-piloto da temperatura da transmissão automática [H38]" pagina="21">
+      </subitem>
+    <subitem nome="Luz de freio direita [E10]" pagina="21">
+      </subitem>
+    <subitem nome="Luz de freio esquerda [E9]" pagina="21">
+      </subitem>
+    <subitem nome="Luz de freio superior direita [E39]" pagina="21">
+      </subitem>
+    <subitem nome="Luz de freio superior esquerda [E38]" pagina="21">
+      </subitem>
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="21">
+      </subitem>
+    <subitem nome="Módulo eletrônico da transmissão automática ZF [U28]" pagina="21">
+      </subitem>
+    <subitem nome="Painel de instrumentos [P18]" pagina="21">
+      </subitem>
+    <subitem nome="Relé auxiliar da luz de freio [K29]" pagina="21">
+      </subitem>
+    <subitem nome="Relé auxiliar de corte da redução de potência do retardador [K67]" pagina="21">
+      </subitem>
+    <subitem nome="Relé auxiliar de redução de potência do retardador por marcha [K70]" pagina="21">
+      </subitem>
+    <subitem nome="Relé auxiliar de redução de potência do retardador por temperatura [K68]" pagina="21">
+      </subitem>
+    <subitem nome="Relé de acionamento do retardador pelo acelerador [K49]" pagina="21">
+      </subitem>
+    <subitem nome="Válvula eletromagnética de redução de potência do retardador [V40]" pagina="21">
+      </subitem>
+  </termo>
+  <termo nome="Sensor de temperatura da transmissão automática Allison" pagina="23">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="23">
+      </subitem>
+    <subitem nome="Alternador [G20]" pagina="23">
+      </subitem>
+    <subitem nome="Cigarra acionamento de temperatura do câmbio [T7]" pagina="23">
+      </subitem>
+    <subitem nome="Interruptor da lâmpada-piloto de temperatura da [B69]" pagina="23">
+      </subitem>
+    <subitem nome="Lâmpada-piloto da temperatura da transmissão [H38]" pagina="23">
+      </subitem>
+    <subitem nome="Painel de instrumentos [P18]" pagina="23">
+      </subitem>
+  </termo>
+  <termo nome="Sensores da suspensão eletropneumática (NR), Sinal de velocidade do tacógrafo para suspensão eletropneumática (NR)" pagina="46">
+    <subitem nome="Módulo Wabco (ECAS) [U30]" pagina="46">
+      </subitem>
+    <subitem nome="Sensor de pressão (ECAS) [B110]" pagina="46">
+      </subitem>
+    <subitem nome="Sensor dianteiro (ECAS) [B109]" pagina="46">
+      </subitem>
+    <subitem nome="Sensor traseiro lado direito (ECAS) [B108]" pagina="46">
+      </subitem>
+    <subitem nome="Sensor traseiro lado esquerdo (ECAS) [B107]" pagina="46">
+      </subitem>
+    <subitem nome="Tacógrafo eletrônico [P5]" pagina="46">
+      </subitem>
+  </termo>
+  <termo nome="Sensores do motor" pagina="17">
+    <subitem nome="Conjunto válvula eletromagnética do sistema de injeção [V31]" pagina="17">
+      </subitem>
+    <subitem nome="Interruptor de parada do motor no compartimento do motor [B47]" pagina="17">
+      </subitem>
+    <subitem nome="Interruptor de partida no compartimento do motor [B46]" pagina="17">
+      </subitem>
+    <subitem nome="Módulo do gerenciamento eletrônico do motor (PLD) [U16]" pagina="17">
+      </subitem>
+    <subitem nome="Sensor de ângulo de início de injeção [G18]" pagina="17">
+      </subitem>
+    <subitem nome="Sensor de nível de óleo do cárter [B86]" pagina="17">
+      </subitem>
+    <subitem nome="Sensor de pressão de óleo do motor [B72]" pagina="17">
+      </subitem>
+    <subitem nome="Sensor de rotação da árvore de manivelas [G17]" pagina="17">
+      </subitem>
+    <subitem nome="Sensor de temperatura de óleo do motor [B73]" pagina="17">
+      </subitem>
+    <subitem nome="Sensor de temperatura do combustível [B70]" pagina="17">
+      </subitem>
+    <subitem nome="Sensor de temperatura do líquido de arrefecimento do motor [B51]" pagina="17">
+      </subitem>
+    <subitem nome="Sensor de temperatura/pressão ar do coletor de admissão [B71]" pagina="17">
+      </subitem>
+    <subitem nome="Válvula de acoplamento eletromagnético do ventilador 1º estágio [V54]" pagina="17">
+      </subitem>
+    <subitem nome="Válvula de acoplamento eletromagnético do ventilador 2º estágio [V55]" pagina="17">
+      </subitem>
+    <subitem nome="Válvula eletromagnética do Top-brake [V17]" pagina="17">
+      </subitem>
+  </termo>
+  <termo nome="Sensores e válvulas de controle do sistema ABS" pagina="3">
+    <subitem nome="Módulo eletrônico do sistema ABS/ASR [U5]" pagina="3">
+      </subitem>
+    <subitem nome="Sensor ABS dianteiro direito [B27]" pagina="3">
+      </subitem>
+    <subitem nome="Sensor ABS dianteiro esquerdo [B26]" pagina="3">
+      </subitem>
+    <subitem nome="Sensor ABS/ASR traseiro direito [B29]" pagina="3">
+      </subitem>
+    <subitem nome="Sensor ABS/ASR traseiro esquerdo [B28]" pagina="3">
+      </subitem>
+    <subitem nome="Válvula de controle ABS do eixo dianteiro, lado direito [V8]" pagina="3">
+      </subitem>
+    <subitem nome="Válvula de controle ABS do eixo dianteiro, lado esquerdo [V7]" pagina="3">
+      </subitem>
+    <subitem nome="Válvula de controle ABS do eixo traseiro [V38]" pagina="3">
+      </subitem>
+  </termo>
+  <termo nome="Sistema de calefação" pagina="24">
+    <subitem nome="Barramento de fusíveis do terminal 30. [FD]" pagina="24">
+      </subitem>
+    <subitem nome="Interruptor de velocidade I e II do sistema de calefação [S27]" pagina="24">
+      </subitem>
+    <subitem nome="Motor do ventilador (ventilação forçada) [M4]" pagina="24">
+      </subitem>
+    <subitem nome="Resistência do motor do ventilador da ventilação forçada [R1]" pagina="24">
+      </subitem>
+    <subitem nome="Válvula eletromagnética do sistema de calefação [V23]" pagina="24">
+      </subitem>
+  </termo>
+  <termo nome="Sistema de funcionamento das portas" pagina="25">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC1]" pagina="25">
+      </subitem>
+    <subitem nome="Alarme sonoro do sistema de bloqueio do veículo com as portas abertas [T6]" pagina="25">
+      </subitem>
+    <subitem nome="Barramento de fusíveis do terminal 30. [FD]" pagina="25">
+      </subitem>
+    <subitem nome="Baterias [G19]" pagina="25">
+      </subitem>
+    <subitem nome="Caixa de fusíveis de proteção geral [FZ]" pagina="25">
+      </subitem>
+    <subitem nome="Chave geral da bateria [Q1]" pagina="25">
+      </subitem>
+    <subitem nome="Conector Chassis / Central elétrica [Z4]" pagina="25">
+      </subitem>
+    <subitem nome="Diodo de bloqueio de retorno de corrente do freio de parada [D24]" pagina="25">
+      </subitem>
+    <subitem nome="Diodo de bloqueio de retorno de corrente para K39 [D34]" pagina="25">
+      </subitem>
+    <subitem nome="Diodo de bloqueio de retorno de corrente para K40 [D35]" pagina="25">
+      </subitem>
+    <subitem nome="Interruptor auxiliar do freio de estacionamento pelo sistema de bloqueio do veículo [B57]" pagina="25">
+      </subitem>
+    <subitem nome="Interruptor de contato e partida [Q2]" pagina="25">
+      </subitem>
+    <subitem nome="Interruptor de desligamento de emergência do sistema de portas [S43]" pagina="25">
+      </subitem>
+    <subitem nome="Interruptor de pressão do sistema de bloqueio do veículo [B38]" pagina="25">
+      </subitem>
+    <subitem nome="Lâmpada-piloto do sistema de bloqueio do veículo [H30]" pagina="25">
+      </subitem>
+    <subitem nome="Luz de freio direita [E10]" pagina="25">
+      </subitem>
+    <subitem nome="Luz de freio esquerda [E9]" pagina="25">
+      </subitem>
+    <subitem nome="Luz de freio superior direita [E39]" pagina="25">
+      </subitem>
+    <subitem nome="Luz de freio superior esquerda [E38]" pagina="25">
+      </subitem>
+    <subitem nome="Painel de instrumentos [P18]" pagina="25">
+      </subitem>
+    <subitem nome="Relé auxiliar da luz de freio [K29]" pagina="25">
+      </subitem>
+    <subitem nome="Relé auxiliar de desligamento de emergência do sistema de portas [K81]" pagina="25">
+      </subitem>
+    <subitem nome="Relé auxiliar do alarme do freio de parada [K39]" pagina="25">
+      </subitem>
+    <subitem nome="Relé auxiliar do terminal 15 [K2]" pagina="25">
+      </subitem>
+    <subitem nome="Relé auxiliar do terminal Kl. 15 para sistema de portas [K82]" pagina="25">
+      </subitem>
+  </termo>
+  <termo nome="Sistema de funcionamento das portas (continuação)" pagina="27">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC1]" pagina="27">
+      </subitem>
+    <subitem nome="Diodo de bloqueio de retorno de corrente B59/B67/B68 [D38]" pagina="27">
+      </subitem>
+    <subitem nome="Diodo de bloqueio de retorno de corrente para B58 [D31]" pagina="27">
+      </subitem>
+    <subitem nome="Diodo de bloqueio de retorno de corrente para B59 [D32]" pagina="27">
+      </subitem>
+    <subitem nome="Diodo de bloqueio de retorno de corrente para B65 e B66 [D28]" pagina="27">
+      </subitem>
+    <subitem nome="Diodo de bloqueio de retorno de corrente para B65 e B66 do comando B59 [D33]" pagina="27">
+      </subitem>
+    <subitem nome="Diodo de bloqueio de retorno de corrente para V24 [D29]" pagina="27">
+      </subitem>
+    <subitem nome="Diodo de bloqueio de retorno de corrente para V28 [D30]" pagina="27">
+      </subitem>
+    <subitem nome="Interruptor auxiliar do freio de estacionamento pelo sistema de bloqueio do veículo [B57]" pagina="27">
+      </subitem>
+    <subitem nome="Interruptor auxiliar do freio de serviço pelo sistema de bloqueio do veículo [B56]" pagina="27">
+      </subitem>
+    <subitem nome="Interruptor de desligamento de emergência do sistema de portas [S43]" pagina="27">
+      </subitem>
+    <subitem nome="Interruptor de pressão na porta I [B58]" pagina="27">
+      </subitem>
+    <subitem nome="Interruptor de pressão na porta II [B65]" pagina="27">
+      </subitem>
+    <subitem nome="Interruptor de pressão na porta III [B66]" pagina="27">
+      </subitem>
+    <subitem nome="Interruptor mecânico na porta I [B59]" pagina="27">
+      </subitem>
+    <subitem nome="Interruptor mecânico na porta II [B67]" pagina="27">
+      </subitem>
+    <subitem nome="Interruptor mecânico na porta III [B68]" pagina="27">
+      </subitem>
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="27">
+      </subitem>
+    <subitem nome="Relé auxiliar de acionamento do pedal do acelerador [K64]" pagina="27">
+      </subitem>
+    <subitem nome="Relé auxiliar de corte do sistema de bloqueio do veículo em baixa velocidade [K9]" pagina="27">
+      </subitem>
+    <subitem nome="Relé auxiliar de desligamento de emergência do sistema de portas [K81]" pagina="27">
+      </subitem>
+    <subitem nome="Relé de corte da válvula eletromagnética do sistema de bloqueio do veículo [K57]" pagina="27">
+      </subitem>
+    <subitem nome="Válvula eletromagnética de bloqueio de acionamento da porta I [V24]" pagina="27">
+      </subitem>
+    <subitem nome="Válvula eletromagnética de bloqueio de acionamento da porta II [V28]" pagina="27">
+      </subitem>
+    <subitem nome="Válvula eletromagnética de bloqueio de acionamento da porta III [V29]" pagina="27">
+      </subitem>
+    <subitem nome="Válvula eletromagnética do sistema de bloqueio do veículo [V19]" pagina="27">
+      </subitem>
+  </termo>
+  <termo nome="Sistema de geração de energia" pagina="29">
+    <subitem nome="(II)2º Alternador [G20]" pagina="29">
+      </subitem>
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC1]" pagina="29">
+      </subitem>
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="29">
+      </subitem>
+    <subitem nome="Alternador 28V/140A [G11]" pagina="29">
+      </subitem>
+    <subitem nome="Alternador [G20]" pagina="29">
+      </subitem>
+    <subitem nome="Baterias [G19]" pagina="29">
+      </subitem>
+    <subitem nome="Caixa de fusíveis de proteção geral [FZ]" pagina="29">
+      </subitem>
+    <subitem nome="Chave geral da bateria [Q1]" pagina="29">
+      </subitem>
+    <subitem nome="Lâmpada piloto do alternador do ar condicionado (D+) [H64]" pagina="29">
+      </subitem>
+    <subitem nome="Lâmpada-piloto controle de carga do alternador adicional [H24]" pagina="29">
+      </subitem>
+    <subitem nome="Lâmpada-piloto de controle de carga das baterias [H11]" pagina="29">
+      </subitem>
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="29">
+      </subitem>
+    <subitem nome="Motor de partida [M12]" pagina="29">
+      </subitem>
+    <subitem nome="Painel de instrumentos [P18]" pagina="29">
+      </subitem>
+    <subitem nome="Resistência de excitação do alternador adicional [R7]" pagina="29">
+      </subitem>
+  </termo>
+  <termo nome="Sistema de geração dos barramentos FC (Kl 15), FD (Kl 30) e FE (Kl 58) com sistema de portas" pagina="31">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC1]" pagina="31">
+      </subitem>
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="31">
+      </subitem>
+    <subitem nome="(KL.58) Barramento de fusíveis do terminal 58 [FE]" pagina="31">
+      </subitem>
+    <subitem nome="Barramento de fusíveis do terminal 30. [FD]" pagina="31">
+      </subitem>
+    <subitem nome="Baterias [G19]" pagina="31">
+      </subitem>
+    <subitem nome="Caixa de fusíveis de proteção geral [FZ]" pagina="31">
+      </subitem>
+    <subitem nome="Chave geral da bateria [Q1]" pagina="31">
+      </subitem>
+    <subitem nome="Conector Chassis / Central elétrica [Z4]" pagina="31">
+      </subitem>
+    <subitem nome="Diodo de bloqueio de retorno de corrente para K39 [D34]" pagina="31">
+      </subitem>
+    <subitem nome="Interruptor de contato e partida [Q2]" pagina="31">
+      </subitem>
+    <subitem nome="Interruptor geral de luzes [S1]" pagina="31">
+      </subitem>
+    <subitem nome="Motor de partida [M12]" pagina="31">
+      </subitem>
+    <subitem nome="Relé auxiliar do terminal 15 [K2]" pagina="31">
+      </subitem>
+    <subitem nome="Relé auxiliar do terminal 58 [K27]" pagina="31">
+      </subitem>
+    <subitem nome="Relé auxiliar do terminal Kl. 15 para sistema de portas [K82]" pagina="31">
+      </subitem>
+    <subitem nome="Relé de realimentação do terminal Kl. 15 [K40]" pagina="31">
+      </subitem>
+  </termo>
+  <termo nome="Sistema de geração dos barramentos FC (Kl 15), FD (Kl 30) e FE (Kl 58) sem sistema de portas" pagina="33">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC1]" pagina="33">
+      </subitem>
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="33">
+      </subitem>
+    <subitem nome="(KL.58) Barramento de fusíveis do terminal 58 [FE]" pagina="33">
+      </subitem>
+    <subitem nome="Barramento de fusíveis do terminal 30. [FD]" pagina="33">
+      </subitem>
+    <subitem nome="Baterias [G19]" pagina="33">
+      </subitem>
+    <subitem nome="Caixa de fusíveis de proteção geral [FZ]" pagina="33">
+      </subitem>
+    <subitem nome="Chave geral da bateria [Q1]" pagina="33">
+      </subitem>
+    <subitem nome="Conector Chassis / Central elétrica [Z4]" pagina="33">
+      </subitem>
+    <subitem nome="Interruptor de contato e partida [Q2]" pagina="33">
+      </subitem>
+    <subitem nome="Interruptor geral de luzes [S1]" pagina="33">
+      </subitem>
+    <subitem nome="Motor de partida [M12]" pagina="33">
+      </subitem>
+    <subitem nome="Relé auxiliar do terminal 15 [K2]" pagina="33">
+      </subitem>
+    <subitem nome="Relé auxiliar do terminal 58 [K27]" pagina="33">
+      </subitem>
+    <subitem nome="Relé de realimentação do terminal Kl. 15 [K40]" pagina="33">
+      </subitem>
+  </termo>
+  <termo nome="Sistema de partida do motor com sistema de portas" pagina="35">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="35">
+      </subitem>
+    <subitem nome="Barramento de fusíveis do terminal 30. [FD]" pagina="35">
+      </subitem>
+    <subitem nome="Baterias [G19]" pagina="35">
+      </subitem>
+    <subitem nome="Caixa de fusíveis de proteção geral [FZ]" pagina="35">
+      </subitem>
+    <subitem nome="Chave geral da bateria [Q1]" pagina="35">
+      </subitem>
+    <subitem nome="Conector Chassis / Central elétrica [Z4]" pagina="35">
+      </subitem>
+    <subitem nome="Conjunto válvula eletromagnética do sistema de injeção [V31]" pagina="35">
+      </subitem>
+    <subitem nome="Diodo de bloqueio de retorno de corrente para K39 [D34]" pagina="35">
+      </subitem>
+    <subitem nome="Interruptor de bloqueio de partida com a tampa do compartimento do motor aberta [B48]" pagina="35">
+      </subitem>
+    <subitem nome="Interruptor de contato e partida [Q2]" pagina="35">
+      </subitem>
+    <subitem nome="Interruptor de corte de partida em ponto morto [B42]" pagina="35">
+      </subitem>
+    <subitem nome="Interruptor de parada do motor no compartimento do motor [B47]" pagina="35">
+      </subitem>
+    <subitem nome="Interruptor de partida no compartimento do motor [B46]" pagina="35">
+      </subitem>
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="35">
+      </subitem>
+    <subitem nome="Módulo de comando Voith Diwa D863 [U29]" pagina="35">
+      </subitem>
+    <subitem nome="Módulo do gerenciamento eletrônico do motor (PLD) [U16]" pagina="35">
+      </subitem>
+    <subitem nome="Módulo eletrônico da transmissão automática ZF [U28]" pagina="35">
+      </subitem>
+    <subitem nome="Motor de partida [M12]" pagina="35">
+      </subitem>
+    <subitem nome="Relé auxiliar do terminal 15 [K2]" pagina="35">
+      </subitem>
+    <subitem nome="Relé auxiliar do terminal Kl. 15 para sistema de portas [K82]" pagina="35">
+      </subitem>
+    <subitem nome="Relé bloqueio de partida [K36]" pagina="35">
+      </subitem>
+    <subitem nome="Relé de realimentação do terminal Kl. 15 [K40]" pagina="35">
+      </subitem>
+    <subitem nome="Seletor de marchas da transmissão automática [S35]" pagina="35">
+      </subitem>
+  </termo>
+  <termo nome="Sistema de partida do motor sem sistema de portas" pagina="37">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="37">
+      </subitem>
+    <subitem nome="Baterias [G19]" pagina="37">
+      </subitem>
+    <subitem nome="Caixa de fusíveis de proteção geral [FZ]" pagina="37">
+      </subitem>
+    <subitem nome="Chave geral da bateria [Q1]" pagina="37">
+      </subitem>
+    <subitem nome="Conector Chassis / Central elétrica [Z4]" pagina="37">
+      </subitem>
+    <subitem nome="Conjunto válvula eletromagnética do sistema de injeção [V31]" pagina="37">
+      </subitem>
+    <subitem nome="Interruptor de bloqueio de partida com a tampa do compartimento do motor aberta [B48]" pagina="37">
+      </subitem>
+    <subitem nome="Interruptor de contato e partida [Q2]" pagina="37">
+      </subitem>
+    <subitem nome="Interruptor de corte de partida em ponto morto [B42]" pagina="37">
+      </subitem>
+    <subitem nome="Interruptor de parada do motor no compartimento do motor [B47]" pagina="37">
+      </subitem>
+    <subitem nome="Interruptor de partida no compartimento do motor [B46]" pagina="37">
+      </subitem>
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="37">
+      </subitem>
+    <subitem nome="Módulo de comando Voith Diwa D863 [U29]" pagina="37">
+      </subitem>
+    <subitem nome="Módulo do gerenciamento eletrônico do motor (PLD) [U16]" pagina="37">
+      </subitem>
+    <subitem nome="Módulo eletrônico da transmissão automática ZF [U28]" pagina="37">
+      </subitem>
+    <subitem nome="Motor de partida [M12]" pagina="37">
+      </subitem>
+    <subitem nome="Relé auxiliar do terminal 15 [K2]" pagina="37">
+      </subitem>
+    <subitem nome="Relé bloqueio de partida [K36]" pagina="37">
+      </subitem>
+    <subitem nome="Relé de realimentação do terminal Kl. 15 [K40]" pagina="37">
+      </subitem>
+    <subitem nome="Seletor de marchas da transmissão automática [S35]" pagina="37">
+      </subitem>
+  </termo>
+  <termo nome="Tacógrafo" pagina="39">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="39">
+      </subitem>
+    <subitem nome="(KL.58) Barramento de fusíveis do terminal 58 [FE]" pagina="39">
+      </subitem>
+    <subitem nome="Baterias [G19]" pagina="39">
+      </subitem>
+    <subitem nome="Chave geral da bateria [Q1]" pagina="39">
+      </subitem>
+    <subitem nome="Gerador de impulsos na caixa de mudanças (sensor de velocidade) [G16]" pagina="39">
+      </subitem>
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="39">
+      </subitem>
+    <subitem nome="Módulo Wabco (ECAS) [U30]" pagina="39">
+      </subitem>
+    <subitem nome="Tacógrafo eletrônico [P5]" pagina="39">
+      </subitem>
+  </termo>
+  <termo nome="Transmissão automática Voith" pagina="41">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC1]" pagina="41">
+      </subitem>
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC2]" pagina="41">
+      </subitem>
+    <subitem nome="Lâmpada-piloto acionamento do retardador de freio [H26]" pagina="41">
+      </subitem>
+    <subitem nome="Lâmpada-piloto da temperatura da transmissão [H38]" pagina="41">
+      </subitem>
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="41">
+      </subitem>
+    <subitem nome="Módulo de comando Voith Diwa D863 [U29]" pagina="41">
+      </subitem>
+    <subitem nome="Painel de instrumentos [P18]" pagina="41">
+      </subitem>
+    <subitem nome="Relé auxiliar controle de transmissão automática [K85]" pagina="41">
+      </subitem>
+    <subitem nome="Relé auxiliar Kickdown [K101]" pagina="41">
+      </subitem>
+    <subitem nome="Tomada para diagnóstico [J4]" pagina="41">
+      </subitem>
+  </termo>
+  <termo nome="Transmissão automática ZF" pagina="42">
+    <subitem nome="(KL.15) Barramento de fusíveis do terminal 15 [FC1]" pagina="42">
+      </subitem>
+    <subitem nome="Módulo de comando eletrônico do motor (ADM) [U27]" pagina="42">
+      </subitem>
+    <subitem nome="Módulo eletrônico da transmissão automática ZF [U28]" pagina="42">
+      </subitem>
+    <subitem nome="Relé auxiliar Kickdown [K101]" pagina="42">
+      </subitem>
+    <subitem nome="Tomada para diagnóstico [J4]" pagina="42">
+      </subitem>
+  </termo>
+  <termo nome="Válvulas da suspensão eletropneumática (NR)" pagina="47">
+    <subitem nome="Conjunto de válvulas do sistema (ECAS) [V51]" pagina="47">
+      </subitem>
+    <subitem nome="Módulo Wabco (ECAS) [U30]" pagina="47">
+      </subitem>
+  </termo>
+</indice_remissivo>

@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<indice_remissivo>
+  <termo nome="Adesivo da central elétrica" pagina="11" />
+  <termo nome="Alçapão do teto" pagina="12">
+    <subitem nome="Funcionamento para ventilação" />
+    <subitem nome="Trava eletromagnética — funcionamento" />
+  </termo>
+  <termo nome="Anteparos" pagina="66">
+    <subitem nome="Substituição" />
+  </termo>
+  <termo nome="Ar-condicionado" pagina="12">
+    <subitem nome="Ar-condicionado central — limpeza do feltro" />
+    <subitem nome="Correias e polias" />
+    <subitem nome="Drenos" />
+    <subitem nome="Filtros e limpeza" />
+    <subitem nome="Manutenção do sistema" />
+    <subitem nome="Manutenção preventiva" />
+    <subitem nome="Óleo do compressor" />
+  </termo>
+  <termo nome="Balaústres" pagina="68">
+    <subitem nome="Como encapsular" />
+  </termo>
+  <termo nome="Baterias" pagina="45">
+    <subitem nome="Caixa de baterias — cuidados na troca" />
+    <subitem nome="Caixa de baterias — localização" />
+    <subitem nome="Componentes eletrônicos — cuidados" />
+    <subitem nome="Cuidados" />
+    <subitem nome="Partida com cabos auxiliares" />
+    <subitem nome="Reciclagem obrigatória" />
+  </termo>
+  <termo nome="Cabos auxiliares" pagina="39">
+    <subitem nome="Partida com baterias descarregadas" />
+    <subitem nome="Realizar partida com auxiliar" />
+    <subitem nome="Sequência de conexão e desconexão" />
+  </termo>
+  <termo nome="Calefação" pagina="12">
+    <subitem nome="Controle e funcionamento" />
+  </termo>
+  <termo nome="Carroceria" pagina="11">
+    <subitem nome="Carroceria externa" />
+    <subitem nome="Conheça a carroceria" />
+    <subitem nome="Estrutura" />
+    <subitem nome="Lado da peça — identificação" />
+    <subitem nome="Número da ordem de fabricação — identificação" />
+  </termo>
+  <termo nome="Central elétrica" pagina="13">
+    <subitem nome="Adesivo" />
+    <subitem nome="Iluminação da central elétrica" />
+    <subitem nome="Localização" />
+  </termo>
+  <termo nome="Chapas laterais" pagina="83">
+    <subitem nome="Substituição" />
+  </termo>
+  <termo nome="Chave elétrica geral" pagina="14">
+    <subitem nome="Desconexão para manutenção elétrica" />
+    <subitem nome="Localização" />
+  </termo>
+  <termo nome="Cinto de segurança" pagina="40">
+    <subitem nome="Área do cadeirante" />
+    <subitem nome="Funcionamento" />
+    <subitem nome="Limpeza" />
+    <subitem nome="Poltrona do cobrador" />
+    <subitem nome="Poltrona do motorista" />
+  </termo>
+  <termo nome="Compromisso" pagina="9">
+    <subitem nome="Caixa de baterias" />
+    <subitem nome="Caixa de ferramentas e acessórios" />
+    <subitem nome="Central elétrica da carroceria" />
+    <subitem nome="Desembaçador" />
+    <subitem nome="Extintor, triângulo, macaco e roda de reposição" />
+    <subitem nome="Iluminação interna e externa" />
+    <subitem nome="Inspeção de entrega" />
+    <subitem nome="Limpador de para-brisa" />
+    <subitem nome="Sistema de áudio e vídeo" />
+  </termo>
+  <termo nome="Cortina sanefa" pagina="14">
+    <subitem nome="Extração" />
+    <subitem nome="Manuseio" />
+    <subitem nome="Retração" />
+  </termo>
+  <termo nome="Cortinas" pagina="58">
+    <subitem nome="Substituição" />
+  </termo>
+  <termo nome="Cúpula interna superior" pagina="15">
+    <subitem nome="Apache VIP" />
+    <subitem nome="Millennium" />
+    <subitem nome="Millennium BRT" />
+  </termo>
+  <termo nome="Diagrama pneumático" pagina="34">
+    <subitem nome="Ilustrativo" />
+    <subitem nome="Pistões das portas" />
+    <subitem nome="Válvulas e interruptores" />
+  </termo>
+  <termo nome="Dicas de manutenção" pagina="46">
+    <subitem nome="Baterias" />
+    <subitem nome="Bloqueador de portas" />
+    <subitem nome="Cúpula dianteira e traseira" />
+    <subitem nome="Frequência de inspeções" />
+    <subitem nome="Grade dianteira" />
+    <subitem nome="Lubrifil" />
+    <subitem nome="Para-choques" />
+    <subitem nome="Poltronas" />
+    <subitem nome="Portas" />
+    <subitem nome="Tampas, trincos e fechaduras" />
+    <subitem nome="Vidros e para-brisa" />
+  </termo>
+  <termo nome="Elevadores" pagina="18">
+    <subitem nome="Localização" />
+    <subitem nome="Operação e manutenção" />
+  </termo>
+  <termo nome="Etiquetas adesivas refletivas" pagina="38">
+    <subitem nome="Carrocerias urbanas" />
+    <subitem nome="Carrocerias urbanas articuladas" />
+    <subitem nome="Localização lateral e traseira" />
+  </termo>
+  <termo nome="Extintor" pagina="42">
+    <subitem nome="Localização" />
+    <subitem nome="Validade e recarga" />
+  </termo>
+  <termo nome="Faróis" pagina="59">
+    <subitem nome="Linha de centro do farol" />
+    <subitem nome="Regulagem e troca" />
+    <subitem nome="Substituição do farol" />
+  </termo>
+  <termo nome="Freio de estacionamento" pagina="18">
+    <subitem nome="Funcionamento" />
+    <subitem nome="Localização" />
+  </termo>
+  <termo nome="Garantia" pagina="8">
+    <subitem nome="Carroceria externa" />
+    <subitem nome="Componentes elétricos" />
+    <subitem nome="Compromisso" />
+    <subitem nome="Condições da garantia" />
+    <subitem nome="Estrutura principal" />
+    <subitem nome="Introdução" />
+    <subitem nome="Isenções" />
+    <subitem nome="Pontos a verificar nas revisões do veículo" />
+  </termo>
+  <termo nome="Grade dianteira" pagina="78">
+    <subitem nome="Substituição" />
+  </termo>
+  <termo nome="Guia de pintura" pagina="85">
+    <subitem nome="Preparação e pintura" />
+    <subitem nome="Promotor de aderência" />
+  </termo>
+  <termo nome="Identificação do lado da peça" pagina="19">
+    <subitem nome="Lado direito e lado esquerdo" />
+    <subitem nome="Vidros de porta" />
+  </termo>
+  <termo nome="Iluminação externa" pagina="20">
+    <subitem nome="Apache VIP" />
+    <subitem nome="Identificação dianteira e traseira" />
+    <subitem nome="Iluminação lateral direita e esquerda" />
+    <subitem nome="Millennium" />
+    <subitem nome="Millennium articulado" />
+    <subitem nome="Millennium BRT" />
+  </termo>
+  <termo nome="Iluminação interna" pagina="63">
+    <subitem nome="Substituição" />
+  </termo>
+  <termo nome="Isenções" pagina="8">
+    <subitem nome="Condições que invalidam a garantia" />
+  </termo>
+  <termo nome="Itinerário eletrônico" pagina="65">
+    <subitem nome="Substituição" />
+  </termo>
+  <termo nome="Lanternas" pagina="59">
+    <subitem nome="Identificação da iluminação externa" />
+    <subitem nome="Lanternas em LED — substituição" />
+    <subitem nome="Regulagem e troca" />
+  </termo>
+  <termo nome="Limpador do para-brisa" pagina="78">
+    <subitem nome="Substituição" />
+  </termo>
+  <termo nome="Mangueira tecalon" pagina="84">
+    <subitem nome="Conexões e engates rápidos" />
+    <subitem nome="Manutenção das portas pneumáticas" />
+  </termo>
+  <termo nome="Número da ordem de fabricação" pagina="19">
+    <subitem nome="Identificação da carroceria" />
+    <subitem nome="Placa de identificação" />
+  </termo>
+  <termo nome="Painel do condutor" pagina="24">
+    <subitem nome="Apache VIP" />
+    <subitem nome="Millennium" />
+    <subitem nome="Millennium BRT" />
+    <subitem nome="Teclas de comando multiplex" />
+    <subitem nome="Teclas de comando padrão" />
+  </termo>
+  <termo nome="Para-choque" pagina="81">
+    <subitem nome="Substituição" />
+  </termo>
+  <termo nome="Peças em fibra" pagina="81">
+    <subitem nome="Reparos" />
+  </termo>
+  <termo nome="Pisos em PVC" pagina="69">
+    <subitem nome="Substituição" />
+  </termo>
+  <termo nome="Poltronas" pagina="29">
+    <subitem nome="Condutor e cobrador — regulagens" />
+    <subitem nome="Passageiros — modelos" />
+    <subitem nome="Poltronas do salão — fixação" />
+    <subitem nome="Substituição" />
+  </termo>
+  <termo nome="Portas" pagina="34">
+    <subitem nome="Abertura e fechamento" />
+    <subitem nome="Bloqueadores de porta" />
+    <subitem nome="Caixa de porta — regulagens" />
+    <subitem nome="Cilindro pneumático — retirada" />
+    <subitem nome="Fim de curso elétrico" />
+    <subitem nome="Porta fole / envolvente" />
+    <subitem nome="Porta pantográfica" />
+    <subitem nome="Regulagem" />
+    <subitem nome="Sistema pneumático — acionamento" />
+    <subitem nome="Válvula externa de abertura" />
+  </termo>
+  <termo nome="Prazo de validade da garantia" pagina="10">
+    <subitem nome="Contra quebra natural" />
+    <subitem nome="Peças de desgaste natural não cobertas pela garantia total Caio" />
+  </termo>
+  <termo nome="Procedimentos de limpeza" pagina="53">
+    <subitem nome="Conservação e recomendações" />
+    <subitem nome="Materiais e produtos utilizados" />
+  </termo>
+  <termo nome="Quebra-vento da janela do motorista" pagina="65">
+    <subitem nome="Regulagem" />
+  </termo>
+  <termo nome="Rampa de acesso" pagina="31">
+    <subitem nome="Manuseio" />
+    <subitem nome="Rampa eletropneumática" />
+    <subitem nome="Rampa manual" />
+    <subitem nome="Sensor da rampa" />
+  </termo>
+  <termo nome="Rebocadores" pagina="33">
+    <subitem nome="Suporte para engate do cambão encaixado ou rosqueado" />
+    <subitem nome="Tipo lança" />
+    <subitem nome="Tipos" />
+  </termo>
+  <termo nome="Relação de peças de desgaste natural" pagina="10">
+    <subitem nome="Peças não cobertas pela garantia total Caio" />
+    <subitem nome="Períodos de garantia" />
+  </termo>
+  <termo nome="Saída de emergência" pagina="42">
+    <subitem nome="Alçapão do teto" />
+    <subitem nome="Funcionamento" />
+    <subitem nome="Janelas com alavanca de emergência" />
+    <subitem nome="Janelas com martelo de emergência" />
+    <subitem nome="Válvulas internas de abertura da porta" />
+  </termo>
+  <termo nome="Sanfona da articulação" pagina="76">
+    <subitem nome="Manutenção e substituição" />
+  </termo>
+  <termo nome="Sistema pneumático" pagina="34">
+    <subitem nome="Acionamento da porta" />
+    <subitem nome="Diagrama pneumático ilustrativo" />
+    <subitem nome="Válvula externa de abertura da porta" />
+  </termo>
+  <termo nome="Sistemas de segurança" pagina="38">
+    <subitem nome="Cabos auxiliares" />
+    <subitem nome="Cinto de segurança" />
+    <subitem nome="Etiquetas adesivas refletivas" />
+    <subitem nome="Extintor" />
+    <subitem nome="Saída de emergência" />
+  </termo>
+  <termo nome="Tampa de acesso à caixa de baterias" pagina="35">
+    <subitem nome="Cuidados na troca" />
+    <subitem nome="Localização" />
+  </termo>
+  <termo nome="Tampa de acesso ao bocal do tanque" pagina="36">
+    <subitem nome="Tanque de abastecimento" />
+    <subitem nome="Tanque de ARLA" />
+  </termo>
+  <termo nome="Tampa de acesso ao tanque de expansão" pagina="36">
+    <subitem nome="Motor dianteiro" />
+    <subitem nome="Motor traseiro" />
+    <subitem nome="Óleo de embreagem" />
+    <subitem nome="Reservatório de óleo hidráulico" />
+  </termo>
+  <termo nome="Tampas de inspeção" pagina="37">
+    <subitem nome="Tampa com parafuso Allen" />
+    <subitem nome="Tampa com parafuso sextavado" />
+    <subitem nome="Tampa com parafuso Torx" />
+    <subitem nome="Tampa fixada sobreposta" />
+  </termo>
+  <termo nome="Vidros" pagina="86">
+    <subitem nome="Identificação dos vidros de porta" />
+    <subitem nome="Retirada do vidro quebrado" />
+    <subitem nome="Substituição" />
+    <subitem nome="Substituição do vidro quebrado" />
+    <subitem nome="Vidros colados" />
+  </termo>
+</indice_remissivo>
